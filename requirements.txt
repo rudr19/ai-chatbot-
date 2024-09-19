@@ -1,3 +1,5 @@
 streamlit
 pyngrok
 pipwin
+numpy
+pandas
